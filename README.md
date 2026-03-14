@@ -1,4 +1,4 @@
-# Document Sarcasm Detector
+# Sarcasm Detector
 
 A tool for detecting sarcastic statements within longer narrative text documents. Analyzes paragraphs and multi-sentence passages to identify sarcasm with confidence scoring and contextual analysis.
 
