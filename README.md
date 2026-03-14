@@ -1,6 +1,6 @@
 # Sarcasm Detector
 
-A tool for detecting sarcastic statements within longer narrative text documents. Analyzes paragraphs and multi-sentence passages to identify sarcasm with confidence scoring and contextual analysis.
+A tool for detecting sarcastic statements within longer narrative text documents. Analyzes paragraphs and multi-sentence passages to identify sarcasm with confidence scoring and contextual analysis. Created in 2 day hackathon
 
 ## Features
 
@@ -34,7 +34,6 @@ Sarah replied, "he sounds like a real comedian". Jessica cringed and put her hea
 | Statement | Confidence | Type | Context |
 |-----------|-----------|------|---------|
 | "he sounds like a real comedian" | 94% | Emotional Inversion | After Jessica describes the manager as unfunny and disruptive |
-| "he has to shower. That would be gross." | 78% | Sarcasm | In response to Jessica saying "I'm not even sure he showers" |
 
 ---
 
